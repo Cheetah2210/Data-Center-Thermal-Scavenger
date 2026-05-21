@@ -1,0 +1,15 @@
+name: Data-Center-Thermal-Scavenger
+version: 1.0.0
+description: >
+  External, decoupled thermal scavenging retrofit for data center exhaust using a closed-loop refrigerant cycle.
+license: CERN-OHL-W-2.0
+documentation: https://github.com/Cheetah2210/Data-Center-Thermal-Scavenger/blob/main/README.md
+owner:
+  name: Emily 🌻 
+  organization: Cheetahs Creations
+tags:
+  - open-source
+  - thermal-management
+  - energy-recovery
+  - data-center
+  - sustainability
