@@ -1,0 +1,5 @@
+This file documents changes to the Data-Center-Thermal-Scavenger project.
+
+Date: 2026-05-21
+Change: Initial release of the design repository.
+Author: Cheetah's Creations - Emily 🌻 
